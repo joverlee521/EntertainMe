@@ -1,12 +1,10 @@
-# Project1
+# Entertain Me
 
-About Entertain Me:
+## About
 
 Entertain Me utilizes Google Maps and Eventful Apis in order to make an accessible and easy to use application that displays events of a variety of categories when supplied with a specified date and location.
 
----------------------------------
-
-How to use Entertain Me:
+## How To
 
 The Entertain Me user interface is very straight forward. Initially the user will be presented with three input fields; location, date, and category, followed by a Search button.
 
@@ -18,9 +16,7 @@ The catagory field is a drop down menu that offers several event catagories. Thi
 
 With valid inputs for the location and date fields, clicking the Search button will load a number of cards, each displaying unique events. The cards consist of an image pertaining to the event, the title of the event, and a Google Maps button. Clicking the card will display information about the event, and clicking the Google Maps button will display a modal that can be used to get directions to the event's venue.
 
----------------------------------
-
-Built with:
+## Technologies Used
 
 Eventful Api: http://api.eventful.com/
 
@@ -30,9 +26,7 @@ Materialize: https://materializecss.com/
 
 Algolia Places: https://community.algolia.com/places/
 
----------------------------------
-
-Contributers:
+## Contributors
 
 Jover Lee: https://github.com/joverlee521
 
