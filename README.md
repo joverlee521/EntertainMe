@@ -43,8 +43,8 @@ The purpose of this project is to make an accessible and easy to use application
 
 ## Technologies Used
 
-* [Eventful Api](http://api.eventful.com/)
-* [Google Maps Api](https://cloud.google.com/maps-platform/)
+* [Eventful API](http://api.eventful.com/)
+* [Google Maps API](https://cloud.google.com/maps-platform/)
 * [Materialize](https://materializecss.com/)
 * [Algolia Places](https://community.algolia.com/places/)
 
