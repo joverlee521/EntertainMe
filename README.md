@@ -25,26 +25,32 @@ The purpose of this project is to make an accessible and easy to use application
 </p>
 
 * With valid inputs for the location and date fields, clicking the "Search" button will load a number of cards, each displaying unique events. 
-* The cards consist of an image pertaining to the event, the title of the event, and a Google Maps button. 
+* The cards consist of an image pertaining to the event, the title of the event, and a Google Maps button.
+
+![events](https://user-images.githubusercontent.com/40774762/50364272-29d07680-0524-11e9-99bc-c07a23db4a5f.png)
+
 * Clicking the card will display information about the event.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/40774762/50364331-774ce380-0524-11e9-8517-c83c2d977351.png" alt="event card open"/>
+</p>
+
+* Clicking the "Get Tickets" button will direct user to an external site to purchase tickets.
+
 * Clicking the Google Maps button will display a modal that can be used to get directions to the event's venue.
+
+![google-maps-modal](https://user-images.githubusercontent.com/40774762/50364453-d4489980-0524-11e9-897a-475e38a46746.png)
 
 ## Technologies Used
 
-Eventful Api: http://api.eventful.com/
-
-Google Maps Api: https://cloud.google.com/maps-platform/
-
-Materialize: https://materializecss.com/
-
-Algolia Places: https://community.algolia.com/places/
+* [Eventful Api](http://api.eventful.com/)
+* [Google Maps Api](https://cloud.google.com/maps-platform/)
+* [Materialize](https://materializecss.com/)
+* [Algolia Places](https://community.algolia.com/places/)
 
 ## Contributors
 
-Jover Lee: https://github.com/joverlee521
-
-Ethan Fisher: https://github.com/EthanPFisher
-
-Simin Shamsfallah: https://github.com/siminshams
-
-Rudy Sharar: https://github.com/rsharar
+* [Jover Lee](https://github.com/joverlee521)
+* [Ethan Fisher](https://github.com/EthanPFisher)
+* [Simin Shamsfallah](https://github.com/siminshams)
+* [Rudy Sharar](https://github.com/rsharar)
